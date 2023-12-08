@@ -11,5 +11,5 @@
 
 <p><b>To Run</b></p>
 
-- `cd V-DdoS`
+- `cd DdoS`
 - `python2 V-DdoS.py`
