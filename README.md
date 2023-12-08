@@ -5,7 +5,7 @@
 - `pkg install git`
 - `pkg install figlet`
 - `git clone https://www.github.com/BLACKARCHNETWORK/DdoS.git`
-- `cd V-DdoS`
+- `cd DdoS`
 - `chmod +x V-DdoS.py`
 - `python2 V-DdoS.py`
 
