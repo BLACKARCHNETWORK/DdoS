@@ -23,11 +23,7 @@ os.system("figlet V-DdoS")
 print
 print "Coded By : BLACKARCH NETWORK"
 print "Author   : BLACKARCH"
-print "Github   : github.com/T34mV18rs"
-print "Fb Page  : facebook.com/TeamVirusOfficial"
-print "FB Group : facebook.com/groups/mohinhossen"
-print "Telegram : t.me/Crackerspace"
-print "Join Cracker Space TG Group To Get Premium Apk(s) Free"
+print "Github   : https://github.com/BLACKARCHNETWORK"
 print "Note- This Tool An Illegal Tool & It's Only For Educational Purpose.. Use It At Your Own Risk,We'll Be Not Responsible For Kind Of Problems"
 print
 ip = raw_input("IP Target : ")
